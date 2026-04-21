@@ -1,2 +1,14 @@
-# e-commerce-scra-er
-A lightweight tool to monitor competitor prices on Amazon for small business owners
+# E-commerce Price Monitor (Alpha)
+
+## 愿景
+我是一名20岁的软件开发者。我看到很多做亚马逊/Shopify的小卖家每天都要手动刷新页面看竞品价格，很痛苦。
+
+这个项目的目标是：写一个脚本，自动帮卖家抓取竞品价格变动，并发邮件提醒。
+
+## 当前进度 (2026-04-21)
+- [x] 注册 GitHub 账号，确立目标。
+- [ ] 学习 Python Requests 库基础。
+- [ ] 完成第一行爬虫代码。
+
+## 联系方式
+如果你是个卖家，希望有这个功能，请在这个仓库提 Issue 告诉我你的需求。
